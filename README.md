@@ -7,5 +7,5 @@ kiethuynhsl/kiethuynhsl is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://github.com/shacojx/shacojx/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/kiethuynhsl/kiethuynhsl/blob/main/snake.svg" alt="snake"></center>
   </p>
